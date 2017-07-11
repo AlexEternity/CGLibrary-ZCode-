@@ -1,0 +1,24 @@
+﻿  CGDevelop.cpp
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(111): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(306): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(314): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cgdevelop.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+  Компиляция...
+  CGTest.cpp
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(111): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(306): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(314): warning C4018: >=: несоответствие типов со знаком и без знака
+  CGLib.cpp
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(111): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(306): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.h(314): warning C4018: >=: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.cpp(20): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.cpp(21): warning C4244: аргумент: преобразование "double" в "unsigned __int64", возможна потеря данных
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.cpp(54): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.cpp(339): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.cpp(343): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\александр\desktop\учеба\курсовая\zcode\cgtest\cglib.cpp(350): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  CGTest.vcxproj -> C:\Users\Александр\Desktop\Учеба\Курсовая\Zcode\Debug\CGTest.exe
+  CGTest.vcxproj -> C:\Users\Александр\Desktop\Учеба\Курсовая\Zcode\Debug\CGTest.pdb (Partial PDB)
